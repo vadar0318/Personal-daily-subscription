@@ -6,6 +6,9 @@ on:
       - https://coolshell.cn/feed
       - https://www.tuzei8.com/rss/index.rss
       - https://www.voicer.me/feed
+      - https://hypebeast.cn/feed
+      - https://headsalon.org/feed
+      - https://nicktalk.com/feed/audio.xml
 
 jobs:
   request:
