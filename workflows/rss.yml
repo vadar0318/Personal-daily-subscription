@@ -3,12 +3,17 @@ on:
     url:
       - https://www.gamedeveloper.com/rss.xml
       - https://www.thinkaloud.cc/rss/feed.xml
-      - https://coolshell.cn/feed
       - https://www.tuzei8.com/rss/index.rss
-      - https://www.voicer.me/feed
-      - https://hypebeast.cn/feed
-      - https://headsalon.org/feed
-      - https://nicktalk.com/feed/audio.xml
+      - https://www.sqlsec.com/atom.xml
+      - https://liqi.io/index.xml
+      - https://tingtalk.me/atom.xml
+      - https://xinquji.com/rss
+      - https://blog.codingnow.com/atom.xml
+      - https://xinquji.com/rss
+      - https://pandaqr.github.io/feed.xml
+      - https://anyway.fm/rss.xml
+      - https://wangyurui.com/feed.xml
+      - https://biopolyhedron.github.io/atom.xml
 
 jobs:
   request:
