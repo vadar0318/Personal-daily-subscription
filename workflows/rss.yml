@@ -14,6 +14,7 @@ on:
       - https://www.waerfa.com/feed
       - http://www.chuapp.com/feed
       - https://www.sqlsec.com/atom.xml
+      - https://www.agilealliance.org/feed/
       
       
 
