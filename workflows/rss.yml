@@ -18,5 +18,5 @@ jobs:
               "type":"url",
               "content":"${{ on.rss.outputs.link }}", 
               "title": "${{ on.rss.outputs.title }}",
-              "folder":"你希望保存文章的文件夹"
+              "folder":"RSS"
             }
