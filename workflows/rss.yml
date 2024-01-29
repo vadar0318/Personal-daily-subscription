@@ -14,6 +14,15 @@ on:
       - https://anyway.fm/rss.xml
       - https://wangyurui.com/feed.xml
       - https://biopolyhedron.github.io/atom.xml
+      - https://coolshell.cn/feed
+      - https://www.voicer.me/feed
+      - https://hypebeast.cn/feed
+      - https://headsalon.org/feed
+      - https://www.biede.com/feed/
+      - http://www.hexieshe.com/feed
+      - https://www.waerfa.com/feed
+      - http://www.chuapp.com/feed
+      - https://www.agilealliance.org/feed
 
 jobs:
   request:
