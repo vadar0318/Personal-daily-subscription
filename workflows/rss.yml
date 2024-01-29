@@ -6,7 +6,6 @@ on:
       - https://coolshell.cn/feed
       - https://www.tuzei8.com/rss/index.rss
       - https://digest.dinehq.com/?format=rss
-      - https://www.voicer.me/feed
 
 jobs:
   request:
