@@ -28,15 +28,19 @@ on:
       - http://youxiputao.com/feed
       - http://www.youxituoluo.com/feed
       - http://gamerboom.com/feed
-      - https://www.vgtime.com/rss.jhtml
       - http://www.yxzzd.com/feed
       - http://game.yesky.com/index.xml
       - http://blog.csdn.net/bill_man/rss/list
       - http://mosq.blog.sohu.com/rss
       - http://www.people.com.cn/rss/game.xml
-      - http://www.gamelook.com.cn/category/%E2%98%85%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F/feed
-      - http://www.cppblog.com/Fox/Rss.aspx
       - http://sspai.me/feed
+      - https://www.dgtle.com/rss/dgtle.xml
+      - http://www.36kr.com/feed
+      - http://www.ithome.com/rss/
+      - http://chinese.engadget.com/rss.xml
+      - http://www.fortunechina.com/rss/management.xml
+      - http://www.zhihu.com/rss
+      - http://www.zreading.cn/feed
      
 
 jobs:
