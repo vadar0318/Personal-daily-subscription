@@ -24,24 +24,6 @@ on:
       - http://www.chuapp.com/feed
       - https://www.agilealliance.org/feed
       - http://feed.wxwenku.com/a/3366/feed
-      - http://www.gamelook.com.cn/feed
-      - http://youxiputao.com/feed
-      - http://www.youxituoluo.com/feed
-      - http://gamerboom.com/feed
-      - http://www.yxzzd.com/feed
-      - http://game.yesky.com/index.xml
-      - http://blog.csdn.net/bill_man/rss/list
-      - http://mosq.blog.sohu.com/rss
-      - http://www.people.com.cn/rss/game.xml
-      - http://sspai.me/feed
-      - https://www.dgtle.com/rss/dgtle.xml
-      - http://www.36kr.com/feed
-      - http://www.ithome.com/rss/
-      - http://chinese.engadget.com/rss.xml
-      - http://www.fortunechina.com/rss/management.xml
-      - http://www.zhihu.com/rss
-      - http://www.zreading.cn/feed
-     
 
 jobs:
   request:
