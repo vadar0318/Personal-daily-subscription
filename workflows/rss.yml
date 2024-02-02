@@ -23,6 +23,66 @@ on:
       - https://www.waerfa.com/feed
       - http://www.chuapp.com/feed
       - https://www.agilealliance.org/feed
+      - http://feed.wxwenku.com/a/3366/feed
+      - http://www.gamelook.com.cn/feed
+      - http://youxiputao.com/feed
+      - http://www.youxituoluo.com/feed
+      - http://gamerboom.com/feed
+      - https://www.vgtime.com/rss.jhtml
+      - http://www.yxzzd.com/feed
+      - http://game.yesky.com/index.xml
+      - http://blog.csdn.net/bill_man/rss/list
+      - http://mosq.blog.sohu.com/rss
+      - http://www.people.com.cn/rss/game.xml
+      - http://www.gamelook.com.cn/category/%E2%98%85%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F/feed
+      - http://www.cppblog.com/Fox/Rss.aspx
+      - http://sspai.me/feed
+      - https://www.dgtle.com/rss/dgtle.xml
+      - http://www.36kr.com/feed
+      - http://www.ithome.com/rss/
+      - http://chinese.engadget.com/rss.xml
+      - http://www.fortunechina.com/rss/management.xml
+      - http://www.zhihu.com/rss
+      - http://www.zreading.cn/feed
+      - http://blog.huangjiwei.com/?feed=rss2
+      - https://feedx.net/rss/one.xml
+      - http://www.dushumashang.com/feed
+      - http://www.duxieren.com/duxieren.xml
+      - http://shuge.org/feed/
+      - https://www.gcores.com/rss
+      - https://www.ign.com.cn/feed.xml
+      - http://www.chuapp.com/feed
+      - http://www.fanjian.net/feed
+      - http://dig.chouti.com/feed.xml
+      - http://www.hexieshe.com/feed
+      - http://www.dapenti.com/blog/rss2.asp
+      - http://scimonth.blogspot.com/feeds/posts/default
+      - http://tomorrowsci.com/feed/
+      - http://blog.sina.com.cn/rss/sciam.xml
+      - http://a-chien.blogspot.com/feeds/posts/default
+      - http://skygene.blogspot.com/feeds/posts/default
+      - http://www.cw.com.tw/RSS/cw_content.xml
+      - http://www.cw.com.tw/RSS/cheers.xml
+      - http://www.managertoday.com.tw/rss/
+      - http://www.gvm.com.tw/RSS/rss.asp
+      - http://feeds.feedburner.com/bw-open
+      - http://www.cw.com.tw/RSS/opinion.xml
+      - http://www.ftchinese.com/sc/rss_r.jsp
+      - http://www.parenting.com.tw/RSS/parenting.xml
+      - http://app.hbrchina.org/?app=rss&amp;controller=index&amp;action=feed&amp;catid=26
+      - http://www.changhai.org/feed.xml
+      - http://www.ixiqi.com/feed
+      - http://www.uisdc.com/feed
+      - http://www.toodaylab.com/feed
+      - http://www.shejipi.com/feed/
+      - http://feeds.feedburner.com/patentcn
+      - http://cdc.tencent.com/?feed=rss2
+      - http://www.voicer.me/feed
+      - http://www.maltm.com/feed/
+      - http://iconmoon.com/blog2/feed.php
+      - http://www.boxui.com/?feed=rss2
+      - http://xueqiu.com/hots/topic/rss
+      - http://blog.caixin.com/feed
 
 jobs:
   request:
