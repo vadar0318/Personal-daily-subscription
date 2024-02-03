@@ -44,6 +44,14 @@ on:
       - http://www.fortunechina.com/rss/management.xml
 
 
+      - http://www.hexieshe.com/feed
+      - http://www.dapenti.com/blog/rss2.asp
+      - http://tomorrowsci.com/feed/
+      - http://a-chien.blogspot.com/feeds/posts/default
+      - http://www.cw.com.tw/RSS/cw_content.xml
+      - http://www.gvm.com.tw/RSS/rss.asp
+
+
 
 jobs:
   request:
