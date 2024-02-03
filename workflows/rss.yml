@@ -34,23 +34,7 @@ on:
       - http://gamerboom.com/feed
       - http://www.yxzzd.com/feed
       - http://game.yesky.com/index.xml
-      - http://blog.csdn.net/bill_man/rss/list
-      - http://www.people.com.cn/rss/game.xml
-      - http://sspai.me/feed
-      - https://www.dgtle.com/rss/dgtle.xml
-      - http://www.36kr.com/feed
-      - http://www.ithome.com/rss/
-      - http://chinese.engadget.com/rss.xml
-      - http://www.fortunechina.com/rss/management.xml
-      - http://www.zhihu.com/rss
-      - https://feedx.net/rss/one.xml
-      - http://www.duxieren.com/duxieren.xml
-      - http://shuge.org/feed/
-      - https://www.gcores.com/rss
-      - https://www.ign.com.cn/feed.xml
-      - http://www.chuapp.com/feed
-      - http://dig.chouti.com/feed.xml
-      - http://www.hexieshe.com/feed
+      
 
 
 jobs:
