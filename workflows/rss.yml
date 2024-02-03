@@ -41,11 +41,6 @@ on:
       - http://chinese.engadget.com/rss.xml
       - http://www.fortunechina.com/rss/management.xml
 
-      - http://www.hexieshe.com/feed
-      - http://tomorrowsci.com/feed/
-      - http://www.gvm.com.tw/RSS/rss.asp
-
-
 jobs:
   request:
     name: Make a HTTP Request
