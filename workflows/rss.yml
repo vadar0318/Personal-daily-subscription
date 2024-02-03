@@ -26,14 +26,12 @@ on:
       - http://feed.wxwenku.com/a/3366/feed
       - http://www.gamelook.com.cn/feed
       - https://youxiputao.com/feed
-         
       - http://www.gamelook.com.cn/feed
       - http://youxiputao.com/feed
       - http://www.youxituoluo.com/feed
       - http://gamerboom.com/feed
       - http://www.yxzzd.com/feed
       - http://game.yesky.com/index.xml
-
       - http://www.people.com.cn/rss/game.xml
       - http://sspai.me/feed
       - https://www.dgtle.com/rss/dgtle.xml
@@ -41,19 +39,22 @@ on:
       - http://www.ithome.com/rss/
       - http://chinese.engadget.com/rss.xml
       - http://www.fortunechina.com/rss/management.xml
-
       - http://www.hexieshe.com/feed
       - http://www.dapenti.com/blog/rss2.asp
       - http://tomorrowsci.com/feed/
       - http://a-chien.blogspot.com/feeds/posts/default
       - http://www.cw.com.tw/RSS/cw_content.xml
       - http://www.gvm.com.tw/RSS/rss.asp
-      
       - http://www.changhai.org/feed.xml
-     
-
-
-
+      - http://www.toodaylab.com/feed
+      - http://www.voicer.me/feed
+      - http://www.maltm.com/feed/
+      - http://xueqiu.com/hots/topic/rss
+      - http://blog.caixin.com/feed
+      - http://www.zhihu.com/rss
+      - https://feedx.net/rss/one.xml
+      - http://www.duxieren.com/duxieren.xml
+      - http://shuge.org/feed/
 jobs:
   request:
     name: Make a HTTP Request
