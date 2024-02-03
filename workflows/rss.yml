@@ -60,7 +60,6 @@ on:
       - http://www.zhihu.com/rss
       - https://feedx.net/rss/one.xml
       - http://www.duxieren.com/duxieren.xml
-      - http://shuge.org/feed/
 jobs:
   request:
     name: Make a HTTP Request
