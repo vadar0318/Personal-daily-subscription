@@ -44,7 +44,7 @@ on:
       - http://www.fortunechina.com/rss/management.xml
 
    
-      - https://www.gcores.com/rss
+    
       - https://www.ign.com.cn/feed.xml
       - http://www.chuapp.com/feed
       - http://dig.chouti.com/feed.xml
