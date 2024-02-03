@@ -40,9 +40,7 @@ on:
       - http://chinese.engadget.com/rss.xml
       - http://www.fortunechina.com/rss/management.xml
       - http://www.hexieshe.com/feed
-      - http://www.dapenti.com/blog/rss2.asp
       - http://tomorrowsci.com/feed/
-      - http://a-chien.blogspot.com/feeds/posts/default
       - http://www.cw.com.tw/RSS/cw_content.xml
       - http://www.gvm.com.tw/RSS/rss.asp
       - http://www.changhai.org/feed.xml
@@ -54,6 +52,7 @@ on:
       - http://www.zhihu.com/rss
       - https://feedx.net/rss/one.xml
       - http://www.duxieren.com/duxieren.xml
+      
 jobs:
   request:
     name: Make a HTTP Request
