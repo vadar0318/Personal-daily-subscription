@@ -43,6 +43,14 @@ on:
       - http://chinese.engadget.com/rss.xml
       - http://www.fortunechina.com/rss/management.xml
 
+      - https://feedx.net/rss/one.xml
+      - http://www.duxieren.com/duxieren.xml
+      - http://shuge.org/feed/
+      - https://www.gcores.com/rss
+      - https://www.ign.com.cn/feed.xml
+      - http://www.chuapp.com/feed
+      - http://dig.chouti.com/feed.xml
+
 
 jobs:
   request:
