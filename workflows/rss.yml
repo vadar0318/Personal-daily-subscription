@@ -27,7 +27,6 @@ on:
       - http://www.gamelook.com.cn/feed
       - https://youxiputao.com/feed
 
-
       - http://www.gamelook.com.cn/feed
       - http://youxiputao.com/feed
       - http://www.youxituoluo.com/feed
@@ -41,7 +40,6 @@ on:
       - http://www.ithome.com/rss/
       - http://chinese.engadget.com/rss.xml
       - http://www.fortunechina.com/rss/management.xml
-
 
       - http://www.hexieshe.com/feed
       - http://tomorrowsci.com/feed/
