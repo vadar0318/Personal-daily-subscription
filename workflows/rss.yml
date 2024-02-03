@@ -24,6 +24,50 @@ on:
       - http://www.chuapp.com/feed
       - https://www.agilealliance.org/feed
       - http://feed.wxwenku.com/a/3366/feed
+      - http://www.gamelook.com.cn/feed
+      - https://youxiputao.com/feed
+
+         
+      - http://www.gamelook.com.cn/feed
+      - http://youxiputao.com/feed
+      - http://www.youxituoluo.com/feed
+      - http://gamerboom.com/feed
+      - http://www.yxzzd.com/feed
+      - http://game.yesky.com/index.xml
+      - http://blog.csdn.net/bill_man/rss/list
+      - http://www.people.com.cn/rss/game.xml
+      - http://sspai.me/feed
+      - https://www.dgtle.com/rss/dgtle.xml
+      - http://www.36kr.com/feed
+      - http://www.ithome.com/rss/
+      - http://chinese.engadget.com/rss.xml
+      - http://www.fortunechina.com/rss/management.xml
+      - http://www.zhihu.com/rss
+      - https://feedx.net/rss/one.xml
+      - http://www.duxieren.com/duxieren.xml
+      - http://shuge.org/feed/
+      - https://www.gcores.com/rss
+      - https://www.ign.com.cn/feed.xml
+      - http://www.chuapp.com/feed
+      - http://dig.chouti.com/feed.xml
+      - http://www.hexieshe.com/feed
+      - http://www.dapenti.com/blog/rss2.asp
+      - http://tomorrowsci.com/feed/
+      - http://a-chien.blogspot.com/feeds/posts/default
+      - http://www.cw.com.tw/RSS/cw_content.xml
+      - http://www.gvm.com.tw/RSS/rss.asp
+      - http://feeds.feedburner.com/bw-open
+      - http://www.ftchinese.com/sc/rss_r.jsp
+      - http://www.parenting.com.tw/RSS/parenting.xml
+      - http://www.changhai.org/feed.xml
+      - http://www.toodaylab.com/feed
+      - http://www.voicer.me/feed
+      - http://www.maltm.com/feed/
+      - http://iconmoon.com/blog2/feed.php
+      - http://www.boxui.com/?feed=rss2
+      - http://xueqiu.com/hots/topic/rss
+      - http://blog.caixin.com/feed
+
 
 jobs:
   request:
