@@ -34,7 +34,14 @@ on:
       - http://gamerboom.com/feed
       - http://www.yxzzd.com/feed
       - http://game.yesky.com/index.xml
-      
+
+      - http://www.people.com.cn/rss/game.xml
+      - http://sspai.me/feed
+      - https://www.dgtle.com/rss/dgtle.xml
+      - http://www.36kr.com/feed
+      - http://www.ithome.com/rss/
+      - http://chinese.engadget.com/rss.xml
+      - http://www.fortunechina.com/rss/management.xml
 
 
 jobs:
