@@ -51,6 +51,17 @@ on:
       - http://www.cw.com.tw/RSS/cw_content.xml
       - http://www.gvm.com.tw/RSS/rss.asp
 
+      
+      - http://www.changhai.org/feed.xml
+      - http://www.toodaylab.com/feed
+      - http://www.voicer.me/feed
+      - http://www.maltm.com/feed/
+      - http://iconmoon.com/blog2/feed.php
+      - http://www.boxui.com/?feed=rss2
+      - http://xueqiu.com/hots/topic/rss
+      - http://blog.caixin.com/feed
+
+
 
 
 jobs:
