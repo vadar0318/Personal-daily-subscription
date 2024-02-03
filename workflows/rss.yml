@@ -57,7 +57,6 @@ on:
       - http://www.voicer.me/feed
       - http://www.maltm.com/feed/
       - http://xueqiu.com/hots/topic/rss
-      - http://blog.caixin.com/feed
       - http://www.zhihu.com/rss
       - https://feedx.net/rss/one.xml
       - http://www.duxieren.com/duxieren.xml
