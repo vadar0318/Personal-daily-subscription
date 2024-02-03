@@ -45,7 +45,7 @@ on:
 
    
     
-      - https://www.ign.com.cn/feed.xml
+     
       - http://www.chuapp.com/feed
       - http://dig.chouti.com/feed.xml
 
